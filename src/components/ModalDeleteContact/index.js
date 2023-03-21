@@ -1,0 +1,1 @@
+export { ModalDeleteContact } from './ModalDeleteContact';
